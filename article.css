@@ -1,0 +1,45 @@
+p{
+  color:black;
+  font-family:"courier";
+  margin:0 auto;
+  width: 700px;
+
+}
+
+.header{
+  margin:0 auto;
+  width:700px;
+  /*position: fixed;*/
+}
+
+.quote{
+  margin:0 auto;
+  margin-bottom: 30px;
+  font-style:italic;
+  font-size:24px;
+  width:1000px;
+  text-align:center;
+}
+
+img {
+  float: left;
+
+}
+h1{
+  font-size: 60px;
+}
+img .todolist{
+margin:0px 30px 30px 30px;
+
+.peter{
+  text-align: center;
+  margin: 30px 50px 30px 60px;
+}
+.russell{
+  float:right;
+  text-align: center;
+  margin: 30px 50px 30px 50px;
+}
+.bio{
+  border: 5px solid black;
+}
